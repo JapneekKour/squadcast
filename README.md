@@ -1,12 +1,12 @@
 Data Analysis and Manipulation
 
-1. Data Import:
+Data Import:
 Setting up a PostgreSQL Database on Render:
 Created Tables and Import CSV Data using psql
 You would create two tables, one for movies and one for ratings.
 
 
-2. Insights and Analysis:
+Insights and Analysis:
 Used pycharm to perform Insights and Analysis
 
 ABOUT THE CODE 
